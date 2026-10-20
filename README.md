@@ -85,7 +85,7 @@ Explored online television listings to compare brand presence, pricing, discount
 ## 🤝 Connect With Me
 
 - **GitHub:** [https://github.com/darshansm767](https://github.com/darshansm767)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://linkedin.com/in/darshan-s-m-4b5a73271
 - **Email:** darshansmd2\@gmail.com
 
 I am interested in entry-level Data Analyst and Business Analyst opportunities, internships and projects where I can apply analytical thinking to real business problems.
